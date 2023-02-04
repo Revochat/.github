@@ -2,4 +2,4 @@
 
 ### 💻 The backend of the application is proprietary but open source to respect your data privacy and security.
 
-### ❤️ Support us by starring this repository !
+### ❤️ Support us by starring and sharing the project !
